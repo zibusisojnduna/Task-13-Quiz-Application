@@ -13,8 +13,8 @@ const questions = [
     },
     {
         question:"In what year was the first English Premier League season held?",
-        answers: ["a) 1966", "b) 1992", "c) 1987", "d) 2000"],
-        correct: "b",
+        answers: ["a) 1966", "b) 1975", "c) 1987", "d) 1992"],
+        correct: "d",
     },
     {
         question:"Which country has won the most number of FIFA World Cup titles?",
@@ -28,12 +28,12 @@ const questions = [
     },
     {
         question:"What was the name of the Zimbabwe before independence?",
-        answers:["a) Southern Africa", "b) Nyasaland", "c) Rhodesia", "d) Zambia"],
+        answers:["a) Southern Africa", "b) Nyasaland", "c) Rhodesia", "d) Bechuanaland"],
         correct:"c"
     },
     {
         question:"Which gaming console has sold the most units of all time?",
-        answers:["a) Xbox 360", "b) Playstion 4", "c) Nintendo Switch", "d) Playstation 2"],
+        answers:["a) Xbox 360", "b) Gamecube", "c) Nintendo Switch", "d) Playstation 2"],
         correct:"d"
     },
     {
