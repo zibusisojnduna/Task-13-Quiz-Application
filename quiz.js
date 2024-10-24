@@ -12,7 +12,7 @@ const questions = [
         correct: "c",
     },
     {
-        question:"In what year was the first Premier League season held?",
+        question:"In what year was the first English Premier League season held?",
         answers: ["a) 1966", "b) 1992", "c) 1987", "d) 2000"],
         correct: "b",
     },
@@ -52,7 +52,7 @@ const questions = [
         correct:"b"
     },
     {
-        question:"Which voice actor has been credited of voicing DC superhero The Batman the most?",
+        question:"Which voice actor has been credited of voicing DC superhero Batman the most across all types of media?",
         answers:["a) Kevin Conroy", "b) Tom Kenny", "c) John DiMaggio", "d) Robin Williams"],
         correct:"a"
     },  
